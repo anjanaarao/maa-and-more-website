@@ -1,7 +1,4 @@
-👩‍🍼 Maa & More
-
-### Introduction  
-**Maa & More** is a responsive and accessible maternal healthcare platform designed to support expecting mothers with personalized, week-by-week content and wellness tips. Built using HTML, CSS, and JavaScript, this project emphasizes clean, user-first UI/UX design principles, modular code structure, and mobile-first responsiveness — making it a solid showcase of frontend development skills in the healthcare domain.
+ **Maa & More** is a responsive and accessible maternal healthcare platform designed to support expecting mothers with personalized, week-by-week content and wellness tips. Built using HTML, CSS, and JavaScript, this project emphasizes clean, user-first UI/UX design principles, modular code structure, and mobile-first responsiveness — making it a solid showcase of frontend development skills in the healthcare domain.
 
 ---
 
