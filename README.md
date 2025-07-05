@@ -4,7 +4,7 @@
 
 ---
 
-🚀 Standout Features
+Standout Features
 
 1. **Personalized Week-by-Week Pregnancy Guidance**  
    Built using modular HTML and JavaScript logic, the site dynamically delivers relevant content for each week of pregnancy — empowering expecting mothers with timely, actionable information.
@@ -17,7 +17,7 @@
 
 ---
 
-🛠️ Tech Stack
+Tech Stack
 
 - **Frontend:** HTML5, CSS3, JavaScript (Vanilla)
 - **Design:** Flexbox, CSS Grid, Media Queries, Custom Components
@@ -25,13 +25,13 @@
 
 ---
 
-🌐 Live Demo  
+Live Demo  
 [Click to View the Live Site](https://anjanaarao.github.io/maa-and-more-website/)  
 _(Hosted via GitHub Pages)_
 
 ---
 
-🚀 How to Run Locally
+How to Run Locally
 
 ```bash
 # Clone the repository
