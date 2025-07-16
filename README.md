@@ -7,13 +7,13 @@
 Standout Features
 
 1. **Personalized Week-by-Week Pregnancy Guidance**  
-   Built using modular HTML and JavaScript logic, the site dynamically delivers relevant content for each week of pregnancy — empowering expecting mothers with timely, actionable information.
+   Built using modular HTML and JavaScript logic, the site dynamically delivers relevant content for each week of pregnancy, empowering expecting mothers with timely, actionable information.
 
 2. **Mobile-First, Accessible Frontend Architecture**  
-   Developed using CSS Flexbox, Grid, and semantic HTML5, the layout ensures smooth, accessible browsing on any device — critical for mothers who primarily access care information on mobile.
+   Developed using CSS Flexbox, Grid, and semantic HTML5, the layout ensures smooth, accessible browsing on any device, critical for mothers who primarily access care information on mobile.
 
 3. **Wellness-Focused User Experience**  
-   Designed with empathy-driven UI principles, the interface blends health education with emotional reassurance — providing a digital companion that supports both physical and mental well-being.
+   Designed with empathy-driven UI principles, the interface blends health education with emotional reassurance, providing a digital companion that supports both physical and mental well-being.
 
 ---
 
